@@ -1,6 +1,6 @@
 # OpenSea Pre-TGE Analytics
 
-A repository analyzing the **pre-TGE campaigns and XP ranking dynamics** for OpenSea, based on public Dune dashboards.
+A repository analyzing the **pre-TGE campaigns and XP ranking dynamics** for OpenSea, based on public Dune dashboard.
 
 This is a data-driven effort to understand how OpenSea distributed benefits and engaged users prior to TGE, and how they ranked participants via XP / balance metrics.
 

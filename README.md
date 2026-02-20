@@ -21,4 +21,3 @@ This is a data-driven effort to understand how OpenSea distributed benefits and 
 - `dashboards/opensea_xp_ranking.md` — description, ranking logic, observations  
 
 
-LFG
